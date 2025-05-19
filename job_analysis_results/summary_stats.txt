@@ -1,0 +1,4 @@
+Total Jobs Analyzed: 6637
+Total Companies: 19
+Total Locations: 14
+Date of Analysis: 2025-05-19
